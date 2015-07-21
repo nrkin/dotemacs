@@ -2,21 +2,21 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/anikethendre/repos/moby/resources/static/jsx/" . "components/")
- ("/Users/anikethendre/repos/moby/resources/static/" . "jsx/")
- ("/Users/anikethendre/repos/moby/resources/" . "static/")
- ("/Users/anikethendre/repos/moby/" . "resources/")
- ("/Users/anikethendre/repos/" . "moby/")
- ("/Users/anikethendre/" . "repos/")
- ("/Users/anikethendre/.emacs.d/packs/core/" . "lib/")
- ("/Users/anikethendre/.emacs.d/packs/" . "core/")
- ("/Users/anikethendre/.emacs.d/" . "packs/")
+ ("/Users/nachiket/repos/moby/resources/static/jsx/" . "components/")
+ ("/Users/nachiket/repos/moby/resources/static/" . "jsx/")
+ ("/Users/nachiket/repos/moby/resources/" . "static/")
+ ("/Users/nachiket/repos/moby/" . "resources/")
+ ("/Users/nachiket/repos/" . "moby/")
+ ("/Users/nachiket/" . "repos/")
+ ("/Users/nachiket/.emacs.d/packs/core/" . "lib/")
+ ("/Users/nachiket/.emacs.d/packs/" . "core/")
+ ("/Users/nachiket/.emacs.d/" . "packs/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/anikethendre/repos/moby/resources/static/jsx/components/"
- "/Users/anikethendre/.emacs.d/packs/core/"
+ "/Users/nachiket/repos/moby/resources/static/jsx/components/"
+ "/Users/nachiket/.emacs.d/packs/core/"
 )
 
 ;; ----- ido-work-file-list -----
@@ -27,27 +27,27 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/anikethendre/repos/moby/resources/static/jsx/components/" (21854 50757 0 0) "issues.jsx" "gs.jsx" "../" "./")
+ ("/Users/nachiket/repos/moby/resources/static/jsx/components/" (21854 50757 0 0) "issues.jsx" "gs.jsx" "../" "./")
 
- ("/Users/anikethendre/repos/moby/resources/static/jsx/" (21854 50757 0 0) "widgets/" "components/" "../" "./")
+ ("/Users/nachiket/repos/moby/resources/static/jsx/" (21854 50757 0 0) "widgets/" "components/" "../" "./")
 
- ("/Users/anikethendre/repos/moby/resources/static/" (21854 50757 0 0) "YUI_VERSION" "yui/" "scripts/" "libs/" "jsx/" "js/" "images/" "growl.ogg" "growl.mp3" "fonts/" "error/" "css/" "buster.js" "__tests__/" ".DS_Store" "../" "./")
+ ("/Users/nachiket/repos/moby/resources/static/" (21854 50757 0 0) "YUI_VERSION" "yui/" "scripts/" "libs/" "jsx/" "js/" "images/" "growl.ogg" "growl.mp3" "fonts/" "error/" "css/" "buster.js" "__tests__/" ".DS_Store" "../" "./")
 
- ("/Users/anikethendre/repos/moby/resources/" (21854 50757 0 0) "test/" "templates/" "static/" "scss/" "postgres/" "log4j.properties" "js-unit-tests/" "jets3t.properties" "i18n/" "gulpfile.js" "fawkes.json" "faq.json" "env/" "design/" "config.rb" "com/" "chromium-issues.json" ".sass-cache/" ".DS_Store" "../" "./")
+ ("/Users/nachiket/repos/moby/resources/" (21854 50757 0 0) "test/" "templates/" "static/" "scss/" "postgres/" "log4j.properties" "js-unit-tests/" "jets3t.properties" "i18n/" "gulpfile.js" "fawkes.json" "faq.json" "env/" "design/" "config.rb" "com/" "chromium-issues.json" ".sass-cache/" ".DS_Store" "../" "./")
 
- ("/Users/anikethendre/repos/moby/" (21856 35331 0 0) "tools/" "test_data/" "test/" "target/" "stylesheets/" "src/" "sass/" "resources/" "README.md" "project.clj" "package.json" "node_modules/" "Makefile" "logs/" "jshint-config.json" "hs_meta.yml" "doc/" "changelogs/" "0005-Core-XHR-for-Import-FAQ-Section-Translations.patch" "0004-Add-styles-for-faq-import-language-preview.patch" "0003-Add-styles-for-FAQ-import-modal-step-1.patch" "0002-Restructure-Import-FAQ-Translations-templates-js.patch" "0002-Live-update-for-FAQ-import.patch" "0001-FAQ-export-and-update-popover-view-fix.patch" "0001-Core-XHR-for-Import-FAQ-Section-Translations.patch" "0001-cherry-picked-from-bosky.patch" "0001-Bump-project-version-to-3.18.0-add-changelog.patch" ".sass-cache/" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/Users/nachiket/repos/moby/" (21856 35331 0 0) "tools/" "test_data/" "test/" "target/" "stylesheets/" "src/" "sass/" "resources/" "README.md" "project.clj" "package.json" "node_modules/" "Makefile" "logs/" "jshint-config.json" "hs_meta.yml" "doc/" "changelogs/" "0005-Core-XHR-for-Import-FAQ-Section-Translations.patch" "0004-Add-styles-for-faq-import-language-preview.patch" "0003-Add-styles-for-FAQ-import-modal-step-1.patch" "0002-Restructure-Import-FAQ-Translations-templates-js.patch" "0002-Live-update-for-FAQ-import.patch" "0001-FAQ-export-and-update-popover-view-fix.patch" "0001-Core-XHR-for-Import-FAQ-Section-Translations.patch" "0001-cherry-picked-from-bosky.patch" "0001-Bump-project-version-to-3.18.0-add-changelog.patch" ".sass-cache/" ".lein-repl-history" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
- ("/Users/anikethendre/repos/" (21807 36170 0 0) "schematic/" "moby/" "dom.js/" "dirigent/" ".DS_Store" "../" "./")
+ ("/Users/nachiket/repos/" (21807 36170 0 0) "schematic/" "moby/" "dom.js/" "dirigent/" ".DS_Store" "../" "./")
 
- ("/Users/anikethendre/" (21858 42390 0 0) "VirtualBox VMs/" "tmp/" "TED Talks/" "study/" "simpleserver/" "repos/" "react-0.13.1/" "Public/" "Prezi/" "play.retry" "play/" "Pictures/" "palantir/" "old-dot-emacs/" "new.txt" "Music/" "multi-term.el" "Movies/" "markdown/" "magit/" "Library/" "imp/" "etc/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "delegation/" "command.txt" "books/" "bin/" "Applications/" ".viminfo" ".vagrant.d/" ".v8flags.3.14.5.9.anikethendre.json" ".Trash/" ".tmux.conf" ".ssh/" ".smex-items" ".recentf" ".psql_history" ".npm/" ".node-gyp/" ".m2/" ".lein/" ".gitignore-global" ".gitconfig" ".git-prompt.sh" ".git-completion.bash" ".gem/" ".ender" ".emacs.d/" ".DS_Store" ".dropbox/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".ansible/" "../" "./")
+ ("/Users/nachiket/" (21858 42390 0 0) "VirtualBox VMs/" "tmp/" "TED Talks/" "study/" "simpleserver/" "repos/" "react-0.13.1/" "Public/" "Prezi/" "play.retry" "play/" "Pictures/" "palantir/" "old-dot-emacs/" "new.txt" "Music/" "multi-term.el" "Movies/" "markdown/" "magit/" "Library/" "imp/" "etc/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "delegation/" "command.txt" "books/" "bin/" "Applications/" ".viminfo" ".vagrant.d/" ".v8flags.3.14.5.9.nachiket.json" ".Trash/" ".tmux.conf" ".ssh/" ".smex-items" ".recentf" ".psql_history" ".npm/" ".node-gyp/" ".m2/" ".lein/" ".gitignore-global" ".gitconfig" ".git-prompt.sh" ".git-completion.bash" ".gem/" ".ender" ".emacs.d/" ".DS_Store" ".dropbox/" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".ansible/" "../" "./")
 
- ("/Users/anikethendre/.emacs.d/packs/core/lib/" (21858 41521 0 0) "window-number.el" "smooth-scrolling.el" "smex.el" "multi-term.el" "ibuffer-git.el" "dircolors.el" "cl-lib.el" "buffer-move.el" "backup-dir.el" "../" "./")
+ ("/Users/nachiket/.emacs.d/packs/core/lib/" (21858 41521 0 0) "window-number.el" "smooth-scrolling.el" "smex.el" "multi-term.el" "ibuffer-git.el" "dircolors.el" "cl-lib.el" "buffer-move.el" "backup-dir.el" "../" "./")
 
- ("/Users/anikethendre/.emacs.d/packs/core/" (21858 41521 0 0) "lib/" "init.el" "config/" "../" "./")
+ ("/Users/nachiket/.emacs.d/packs/core/" (21858 41521 0 0) "lib/" "init.el" "config/" "../" "./")
 
- ("/Users/anikethendre/.emacs.d/packs/" (21858 41521 0 0) "user/" "themes/" "programming/" "power/" "org-mode/" "notes/" "core/" "clojure/" "../" "./")
+ ("/Users/nachiket/.emacs.d/packs/" (21858 41521 0 0) "user/" "themes/" "programming/" "power/" "org-mode/" "notes/" "core/" "clojure/" "../" "./")
 
- ("/Users/anikethendre/.emacs.d/" (21858 41583 0 0) "tramp" "tmp/" "README.md" "packs/" "init.el" "etc/" ".gitignore" ".git/" "../" "./")
+ ("/Users/nachiket/.emacs.d/" (21858 41583 0 0) "tramp" "tmp/" "README.md" "packs/" "init.el" "etc/" ".gitignore" ".git/" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
